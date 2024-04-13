@@ -1,0 +1,9 @@
+header {
+    margin: auto;
+    text-decoration: underline;
+}
+
+.embed-responsive-item {
+    border-radius: 15px;
+    border: 3px #0080ff solid;
+}

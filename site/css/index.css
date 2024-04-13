@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+}
+
+#subtitle {
+    font-style: italic;
+}
+
+.persona {
+    display: block;
+}
+
+img {
+    border: 3px solid #0080ff;
+    height: 20rem;
+    border-radius: 10px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+figcaption {
+    text-align: center;
+    margin-bottom: 5em;
+}
+
+section {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+section h2 {
+    font-size: larger;
+    margin-bottom: 2em;
+}
